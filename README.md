@@ -1,6 +1,6 @@
 # C.R.U.X Crisis Management System by 9Tales
 ## - built with laravel framework using MVC architecture
-
+### [Final report Available here.](https://github.com/SimLongXiang/CZ3003-C.R.U.X-Crisis-Management-System/blob/master/C.R.U.X-Final%20Report%20v1.6.docx)
 
 # Introduction
 C.R.U.X serves as a platform to allow collaboration between government agencies in times of occurrence of crises (Fire/Flood). It not only allows crisis handling by providing immediate responses and assistance to resolve the crisis, it also shows the transition from an incident to a crisis when an incident had gone beyond the required safety measures, and the transition when a crisis transiting to an incident whenever a crisis is no longer in the alert zone levels . When an incident is being reported by a member of public, call centre operators will lodge the incident’s information into C.R.U.X and monitor if it goes beyond the safety alert level. Given the case when it had surpassed the alert level, assets will be dispatched from relevant agencies to deal with the crisis. In the midst of the resolving the crisis, key decision makers will be able to observe the status changes, and notify the PMO via email as well as the public via social media channels (Twitter, Facebook, or SMS).
@@ -23,5 +23,19 @@ C.R.U.X will also provide the numbers and location of the manpower and personnel
 ## Update Live Information
 C.R.U.X allows different government bodies to share their information and then post notification to the public through social media update such as Twitter and Facebook as a single entity. Also, SMS will be sent out to the members of public. This allows information feeds to be publish frequently so that public will be better notified on the current situation crisis.
 
+![alttext](https://github.com/SimLongXiang/CZ3003-C.R.U.X-Crisis-Management-System/blob/master/cms1.png)
+![alttext](https://github.com/SimLongXiang/CZ3003-C.R.U.X-Crisis-Management-System/blob/master/cms2.png)
+![alttext](https://github.com/SimLongXiang/CZ3003-C.R.U.X-Crisis-Management-System/blob/master/cms3.png)
+![alttext](https://github.com/SimLongXiang/CZ3003-C.R.U.X-Crisis-Management-System/blob/master/cms4.png)
 
-Any inquries, please feel free to drop an email to C150089@e.ntu.edu.sg for more details.
+# Created By:
+Thomas Lim Jun Wei,
+Lim Zi Yang,		
+Huang Jian Wei,		
+Yong Guo Jun,		
+Lim Hao Zhe,	
+Sim Long Siang,	
+Genevieve Lam,
+Goh Ka Hian	
+
+
